@@ -1,0 +1,23 @@
+Path -> Seria uma interface que representa caminho
+
+getFileName-> Retona o nome do arquivo
+getRoot -> Retorna a rais do arquivo
+Path.Of("") -> Usado para passar o caminho do arquivo
+Path.isAbsolute() -> informa se o caminho e absoluto retornando um boolean
+Path.toAbsolutePath() -> junto com print informa o caminho absoluto do arquivo
+Path.getParent()-> Remove o ultimo nivel no caminho do arquivo
+Path.resolve() -> Adiciona o ultimo nivel no caminho do arquivo
+
+Files -> E uma biblioteca cheia de funcoes para trabalhar com arquivos;
+
+Files.isDirectory -> verifica se e um diretorio
+Files.isRegularFile -> Verifica se e um arquivo
+Files.createDirectory -> Cria um novo Diretorio
+Files.createFile -> Cria um novo Arquivo
+Files.createTempDirectory -> Cria um novo Diretorio temporario
+Files.createTempFile -> Cria um novo Arquivo Temporario
+Files.deleteIfExists -> deleta o Arquivo se existir
+Files.copy -> copia o arquivo para o mesmo ou outro diretorio passando os PATH
+Files.move -> Move o arquivo
+
+
