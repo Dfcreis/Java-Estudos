@@ -1,10 +1,10 @@
-package stack;
+package estruturaDeDados;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class stack {
+public class MainStack {
     static void main() {
 
         // Array
