@@ -1,6 +1,6 @@
-package Interface.modelEntities;
+package packinterface.modelEntities;
 
-import Interface.modelServices.Color;
+import packinterface.modelServices.Color;
 
 public class Circle extends AbstractShape{
     private double radius;

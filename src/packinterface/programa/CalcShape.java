@@ -1,9 +1,9 @@
-package Interface.programa;
+package packinterface.programa;
 
-import Interface.modelEntities.AbstractShape;
-import Interface.modelEntities.Circle;
-import Interface.modelEntities.Rectangle;
-import Interface.modelServices.Color;
+import packinterface.modelEntities.AbstractShape;
+import packinterface.modelEntities.Circle;
+import packinterface.modelEntities.Rectangle;
+import packinterface.modelServices.Color;
 
 public class CalcShape {
     public static  void main (String [] args){

@@ -1,7 +1,7 @@
-package Interface.modelEntities;
+package packinterface.modelEntities;
 
-import Interface.modelServices.Color;
-import Interface.modelServices.Shape;
+import packinterface.modelServices.Color;
+import packinterface.modelServices.Shape;
 
 public abstract class AbstractShape implements Shape {
     Color color;

@@ -1,4 +1,4 @@
-package Interface.modelEntities;
+package packinterface.modelEntities;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

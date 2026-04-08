@@ -1,8 +1,7 @@
-package Interface.modelEntities;
+package packinterface.modelEntities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 
 public class Installment {
     private LocalDate date;

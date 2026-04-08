@@ -1,4 +1,4 @@
-package Interface.modelServices;
+package packinterface.modelServices;
 
 public class PaypalServices implements OnlinePaymentServices{
 

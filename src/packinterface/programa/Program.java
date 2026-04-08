@@ -1,8 +1,8 @@
-package Interface.programa;
+package packinterface.programa;
 
-import Interface.modelEntities.Contract;
-import Interface.modelEntities.Installment;
-import Interface.modelServices.ContractServices;
+import packinterface.modelEntities.Contract;
+import packinterface.modelEntities.Installment;
+import packinterface.modelServices.ContractServices;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

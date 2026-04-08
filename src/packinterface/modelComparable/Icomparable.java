@@ -1,4 +1,4 @@
-package Interface.modelComparable;
+package packinterface.modelComparable;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

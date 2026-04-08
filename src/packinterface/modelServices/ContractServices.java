@@ -1,8 +1,8 @@
-package Interface.modelServices;
+package packinterface.modelServices;
 
 
-import Interface.modelEntities.Contract;
-import Interface.modelEntities.Installment;
+import packinterface.modelEntities.Contract;
+import packinterface.modelEntities.Installment;
 
 import java.time.LocalDate;
 
