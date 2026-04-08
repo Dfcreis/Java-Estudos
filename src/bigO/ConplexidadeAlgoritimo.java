@@ -18,14 +18,14 @@ public class ConplexidadeAlgoritimo {
             arrayList.add(i);
         }
 
-        //LinkedList
+        //LinkedList O(1) para acessar o primeiro elemento, O(n) para acessar o elemento do meio ou do final
         inicio = System.nanoTime();
         linkedList.get(50);
         fim = System.nanoTime();
         tempo = fim - inicio;
         System.out.println("Tempo gasto para acessar o elemento 50 na LinkedList: "+tempo+" nanosegundos");
 
-        //arrayList
+        //arrayList O(1) para acessar qualquer elemento, pois é baseado em um array e tem acesso direto aos índices
         inicio = System.nanoTime();
         arrayList.get(50);
         fim = System.nanoTime();
