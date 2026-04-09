@@ -3,7 +3,7 @@ package bigO;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class ConplexidadeAlgoritimo {
+public class ComplexidadeAlgoritimo {
     static void main(String[] args) {
 
         long inicio;
